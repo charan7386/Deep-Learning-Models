@@ -1,2 +1,2 @@
 # Deep-Learning-Models
-<p>ANN and CNN with Tensorflow and Keras</p>
+<p>A list of Neural Networks implementations</p>
